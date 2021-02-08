@@ -1,0 +1,4 @@
+﻿  Classes.cpp
+C:\Users\russe\source\repos\GAME1011_Lab2_LiRussell\GAME1011_Lab2_LiRussell\Classes.cpp(67,90): warning C4305: 'argument': truncation from '__int64' to 'int'
+C:\Users\russe\source\repos\GAME1011_Lab2_LiRussell\GAME1011_Lab2_LiRussell\Classes.cpp(67,68): warning C4309: 'argument': truncation of constant value
+  GAME1011_Lab2_LiRussell.vcxproj -> C:\Users\russe\source\repos\GAME1011_Lab2_LiRussell\Debug\GAME1011_Lab2_LiRussell.exe
